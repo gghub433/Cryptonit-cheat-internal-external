@@ -1,0 +1,7 @@
+id=cryptonit
+name=Cryptonit — Standoff 2
+version=v1.0
+versionCode=100
+author=Cryptonit
+description=Internal cheat for Standoff 2 via Zygisk injection
+minMagisk=24000
